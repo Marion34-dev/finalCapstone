@@ -7,5 +7,4 @@ This is a python program that reads from the inventory.txt file and allows stock
 You can navigate through the menu and select the option you would like to try. The while loop enables the user to complete multiple actions before exiting the program.
 
 ## Installation section
-You can download the software under the master branch of this project: https://github.com/Marion34-dev/finalCapstone/blob/master/inventory.py
-Contact me if you have any questions! :)
+You can download the program under the master branch of this project: https://github.com/Marion34-dev/finalCapstone/blob/master/inventory.py. Don't forget to download the txt file as well! Contact me if you have any questions :)
